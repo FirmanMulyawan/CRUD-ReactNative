@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "prawito",
+      "email": "prawito@email.com",
+      "bidang": "RN Dev"
+    },
+    {
+      "name": "Fachrul",
+      "email": "Fachrul",
+      "bidang": "Fachrul",
+      "id": 2
+    },
+    {
+      "name": "Agni",
+      "email": "Agni",
+      "bidang": "Agni",
+      "id": 6
+    },
+    {
+      "name": "Firman",
+      "email": "Firman",
+      "bidang": "Firman",
+      "id": 8
+    },
+    {
+      "name": "Alvin",
+      "email": "Alvin",
+      "bidang": "Alvin",
+      "id": 9
+    },
+    {
+      "name": "Riyan",
+      "email": "Riyan",
+      "bidang": "Riyan",
+      "id": 10
+    }
+  ]
+}
